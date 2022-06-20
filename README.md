@@ -1,1 +1,1 @@
-# go-file-organizer
+# file-organizer
